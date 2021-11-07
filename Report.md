@@ -4,6 +4,7 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 При пополнении счета клиента, баланс счета становится отрицательным
+
 [_Ссылка на баг-репорт_](https://github.com/DmitrenkoAlex/Java-1/issues/1)
 
 ### Описание процесса тестирования:
@@ -19,11 +20,20 @@
 ### Тестирование производилось в следующем окружении:
 
 IntelliJ IDEA 2021.2.3 (Community Edition)
+
 Build #IC-212.5457.46, built on October 12, 2021
+
 Runtime version: 11.0.12+7-b1504.40 amd64
+
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+
 Windows 7 6.1
+
 GC: G1 Young Generation, G1 Old Generation
+
 Memory: 1022M
+
 Cores: 4
+
 Kotlin: 212-1.5.10-release-IJ5457.46
+
